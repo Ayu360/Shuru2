@@ -1,50 +1,25 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Shuru 2🛒
 
-## Get started
+Some specific screens for Shuru's assigned tasks</br>
+<img src="https://github.com/user-attachments/assets/94145fcf-6212-4163-8c87-513a3486d297" data-canonical-src="https://github.com/user-attachments/assets/94145fcf-6212-4163-8c87-513a3486d297" width="200" height="auto" />
+<img src="https://github.com/user-attachments/assets/2955b47e-57d5-40cf-a1d6-bd9afdda6d9f" data-canonical-src="https://github.com/user-attachments/assets/2955b47e-57d5-40cf-a1d6-bd9afdda6d9f" width="200" height="auto" />
+</br><hr>
+<img src="https://github.com/user-attachments/assets/551b56ad-ae8f-46d4-b93d-de95a11fde7e" data-canonical-src="https://github.com/user-attachments/assets/551b56ad-ae8f-46d4-b93d-de95a11fde7e" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/344ed491-0e1a-41a7-b66f-9b0324a8fcd2" data-canonical-src="https://github.com/user-attachments/assets/344ed491-0e1a-41a7-b66f-9b0324a8fcd2" width="200" height="400" />
 
-1. Install dependencies
+# Screens 📱
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+## 🏁 Start the app
+- Install dependencies: `npm i`
+- Native application: `npx expo start`
 
-   ```bash
-    npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+## ⬇️ Demo Video
+[Click here to see demo](https://drive.google.com/file/d/1dY1xEnrBsUulgthxx10CG7OwG9dBW_DW/view?usp=sharing)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+### 🔴 NOTE: 
 ```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Their's another assignment as well whose repos is on GitHub by name Shuru.
+```
